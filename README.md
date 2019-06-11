@@ -1,6 +1,6 @@
-# Angular-with-Node
+# Angular with Node.js
 
-### This Project uses is in Angular 8.0.0 and Angular Material 8.0.0 with Node.js
+### This Project uses is in Angular 8.0.1 and Angular Material 8.0.1 with Node.js v10.15.3
 
 Following Steps to run this Project
 
